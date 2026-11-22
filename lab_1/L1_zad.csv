@@ -1,0 +1,13 @@
+pracownik,rola,stawka_h,max_zmian,Pon_Rano,Pon_Popoludnie,Pon_Noc,Wt_Rano,Wt_Popoludnie,Wt_Noc,Sr_Rano,Sr_Popoludnie,Sr_Noc
+Dr_Kowalski,Senior,140,2,1,1,0,1,1,0,1,0,0
+Dr_Nowakowska,Senior,135,2,0,1,1,0,1,1,1,1,0
+Rat_Wisniewski,Senior,110,3,1,1,1,1,1,1,0,1,1
+Rat_Wojcik,Senior,105,3,1,0,1,1,1,0,1,1,1
+Piel_Kaminska,Senior,95,3,1,1,1,1,1,1,1,1,1
+Piel_Lewandowska,Junior,75,3,1,1,0,1,1,1,1,1,0
+Piel_Zielinska,Junior,75,3,0,1,1,1,1,0,1,1,1
+Rat_Szymanski,Junior,70,3,1,1,1,0,1,1,1,0,1
+Rat_Wozniak,Junior,70,3,1,0,1,1,1,1,0,1,1
+Piel_Dabrowska,Junior,68,3,1,1,1,1,0,1,1,1,0
+Piel_Kozlowska,Junior,65,3,1,1,1,1,1,1,1,1,1
+Rat_Jankowski,Junior,65,3,0,1,1,1,1,1,1,1,1

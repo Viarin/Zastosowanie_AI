@@ -1,0 +1,5 @@
+pracownik,rola,Pon_Rano,Pon_Popoludnie,Pon_Noc,Wt_Rano,Wt_Popoludnie,Wt_Noc,Sr_Rano,Sr_Popoludnie,Sr_Noc,max_zmian
+Anna_Nowak,Starsza_Pielegniarka,1,1,0,1,0,1,1,0,0,3
+Beata_Kowal,Pielegniarka,0,1,1,0,1,0,0,1,1,3
+Celina_Wisniewska,Pielegniarka,1,0,1,1,1,0,1,0,1,3
+Dorota_Zielinska,Pielegniarka,1,1,1,0,0,1,0,1,0,2
