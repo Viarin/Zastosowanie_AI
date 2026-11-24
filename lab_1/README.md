@@ -14,7 +14,7 @@ cd lab_1
 typst compile sprawozdanie.typ 2026_2_S_Rybak_1_S.pdf
 ```
 
-- Kod: `rozwiazanie.ipynb` (do oddania jako `2026_2_S_Rybak_1_K.ipynb`).
+- Kod:  `2026_2_S_Rybak_1_K.ipynb`
 - Dane: `L1_zad.csv` (w Google Colab wgraj ten plik najpierw do środowiska).
-- Zrzut ekranu w raporcie: `img/screen.png` jest placeholderem – podmień go zrzutem z Colaba (zachowaj nazwę pliku).
+- Zrzut ekranu w raporcie: `img/screen.png` 
 - Do oddania: `2026_2_S_Rybak_1_K.ipynb` i `2026_2_S_Rybak_1_S.pdf` (ZIP `2026_2_S_Rybak_1.zip`).
